@@ -85,7 +85,7 @@ This project was collaboratively developed by the following four team members:
 
 | Team Member | GitHub Profile |
 |---|---|
-| Ashwini Parameswaran | [@AshwiniParameswaran](https://github.com/AswiniParameswaran) |
+| Ashwini Parameswaran | [@AswiniParameswaran](https://github.com/AswiniParameswaran) |
 | Keerthi Gopalavannan | [@keerthigopalm](https://github.com/keerthigopalm) |
 | Tharshana | [@Tharshana11](https://github.com/Tharshana11) |
 | Balasubramaniyam Thushakaran | [@Thushakaran](https://github.com/Thushakaran) |
@@ -101,7 +101,7 @@ My technical contributions included:
 - Working on product and category management functionality.
 - Implementing backend business logic and service-layer operations.
 - Working with MySQL database integration.
-- Contributing to order and payment-related backend functionality.
+- Contributing to appointment-related backend functionality.
 - Participating in collaborative development and version control using Git and GitHub.
 
 *Note: The contributions listed above describe my individual involvement in the collaborative project.*
